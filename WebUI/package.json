@@ -34,7 +34,7 @@
 		"dist/*"
 	],
 	"dependencies": {
-		"@enact/cli": "^2.1.0",
+		"@enact/cli": "^5.1.0",
 		"@enact/core": "^2.0.0",
 		"@enact/i18n": "^2.0.0",
 		"@enact/moonstone": "^2.0.0",
